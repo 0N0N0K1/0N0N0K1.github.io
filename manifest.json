@@ -1,0 +1,15 @@
+{
+  "name": "0N0N0K1 の blog",
+  "short_name": "0N0N0K1 の blog",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
