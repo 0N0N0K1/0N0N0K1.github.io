@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Git 使用 on 0N0N0K1 の BLOG</title>
-		<link>https://0n0n0k1.github.io/docs/git/</link>
-		<description>Recent content in Git 使用 on 0N0N0K1 の BLOG</description>
+		<title>Git 使用 on 54deer の BLOG</title>
+		<link>https://54deer.github.io/docs/git/</link>
+		<description>Recent content in Git 使用 on 54deer の BLOG</description>
 		<generator>Hugo</generator>
 		<language>zh</language>
 		
 		
 		
 		
-			<atom:link href="https://0n0n0k1.github.io/docs/git/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://54deer.github.io/docs/git/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Git</title>
-				<link>https://0n0n0k1.github.io/docs/git/git/</link>
+				<link>https://54deer.github.io/docs/git/git/</link>
 				<pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
-				<guid>https://0n0n0k1.github.io/docs/git/git/</guid>
+				<guid>https://54deer.github.io/docs/git/git/</guid>
 				<description>&lt;h1 id=&#34;1-版本控制&#34;&gt;1. 版本控制&lt;a class=&#34;anchor&#34; href=&#34;#1-%e7%89%88%e6%9c%ac%e6%8e%a7%e5%88%b6&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;客户端并不只提取最新版本的文件快照， 而是把代码仓库完整地镜像下来，包括完整的历史记录。 这么一来，任何一处协同工作用的服务器发生故障，事后都可以用任何一个镜像出来的本地仓库恢复&#xA;![[Pasted image 20260914215935.png|443]]&lt;/p&gt;</description>
 			</item>
 	</channel>
